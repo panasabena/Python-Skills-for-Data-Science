@@ -42,3 +42,4 @@ In this course, instructor Lillian Pierson takes you step by step through a prac
 * Ensembles methods
 * Introduction to neural networks
 * Decision tree models
+
